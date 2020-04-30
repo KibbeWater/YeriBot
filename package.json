@@ -9,7 +9,9 @@
     "fstorm": "latest",
     "jimp": "latest",
     "request": "^2.88.2",
-    "node": "13.12.0",
     "valid-url": "^1.0.9"
+  }
+  "engines": {
+    "node": "13.12.0"
   }
 }
