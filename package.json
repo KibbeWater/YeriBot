@@ -4,14 +4,11 @@
   "main": "bot.js",
   "version": "1.5.10",
   "dependencies": {
-    "canvas": "^2.6.1",
-    "discord.js": "^11.5.1",
+    "discord.js": "latest",
     "fstorm": "latest",
     "jimp": "latest",
+    "randomatic": "^3.1.1",
     "request": "^2.88.2",
     "valid-url": "^1.0.9"
-  },
-  "engines": {
-    "node": "13.12.0"
   }
 }
