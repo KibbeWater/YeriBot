@@ -4,7 +4,7 @@
   "main": "bot.js",
   "version": "1.5.10",
   "dependencies": {
-    "discord.js": "latest",
+    "discord.js": "^12.2.0",
     "fstorm": "latest",
     "jimp": "latest",
     "randomatic": "^3.1.1",
